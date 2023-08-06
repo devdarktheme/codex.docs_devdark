@@ -42,16 +42,25 @@
         {% endif %}
       </section>
     {% endfor %}
-
-    <div class="docs-sidebar__logo">
-        <a class="docs-sidebar__logo-wrapper" href="https://github.com/codex-team/codex.docs">
+    
+      <div class="docs-sidebar__logo" >
+        <div class="docs-sidebar__logo-wrapper">
           <div class="docs-sidebar__logo-image">
             {{ svg('aside-logo') }}
           </div>
-          <p class="docs-sidebar__logo-caption">
+          <a  href="https://github.com/codex-team/codex.docs" class="docs-sidebar__logo-caption">
             Powered by CodeX Docs
-          </p>
-        </a>
+          </a>
+        </div>
+        <div class="docs-sidebar__logo-wrapper">
+          <div class="docs-sidebar__logo-image">
+            <img style="width: 38px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/55553104/241787971-333bfc21-22fa-4e79-a1b0-64bdce4062eb.png">
+          </div>
+          <a  href="https://github.com/devdarktheme/codex.docs_devdark/" class="docs-sidebar__logo-caption">
+            With DevDark theme
+          </a>
+
+        </div>
     </div>
 
   </aside>
