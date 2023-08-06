@@ -1,10 +1,10 @@
-# CodeX Docs
+# CodeX Docs with DevDark
 
 [CodeX Docs](https://docs.codex.so/) is a free docs application. It's based on Editor.js ecosystem which gives all modern opportunities for working with content.
 
 You can use it for product documentation, for internal team docs, for personal notes or any other need.
 
-![page-overview-bright](https://user-images.githubusercontent.com/3684889/190149130-6a6fcdec-09bc-4f96-8bdc-5ff4d789f248.png)
+![page-overview-bright](https://github.com/devdarktheme/codex.docs_devdark/assets/55553104/3655b825-7926-4039-8f3d-fd76865fb4bd)
 
 It's super easy to install and use.
 
